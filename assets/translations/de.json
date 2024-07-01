@@ -1,0 +1,35 @@
+{
+  "email": "E-Mail",
+  "password": "Passwort",
+  "server": "Server",
+  "scan_bike_qr": "Fahrrad QR scannen",
+  "lending_since": "Ausleihe seit",
+  "recent_trips": "Letzte Fahrten",
+  "log_in": "Anmelden",
+  "log_out": "Abmelden",
+  "trip": "Fahrt",
+  "duration": "Dauer",
+  "second": "Sekunde",
+  "seconds": "Sekunden",
+  "minute": "Minute",
+  "minutes": "Minuten",
+  "hour": "Stunde",
+  "hours": "Stunden",
+  "error": {
+    "label": "Fehler",
+    "could_not_connect_to_lock": "Konnte nicht mit dem Schloss verbinden!",
+    "credentials": "Falscher Benutzername oder Passwort",
+    "unknown": "Unbekannter Fehler"
+  },
+  "last_ping": "Letzter Ping",
+  "time_ago": {
+    "few_seconds": "vor wenigen Sekunden",
+    "few_minutes": "vor wenigen Minuten",
+    "several_minutes": "vor einigen Minuten",
+    "several_hours": "vor einigen Stunden",
+    "yesterday": "gestern",
+    "several_days": "vor einigen Tagen"
+  },
+  "bike_no": "Fahrrad Nr.",
+  "unlock": "Entsperren"
+}

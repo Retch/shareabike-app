@@ -1,0 +1,35 @@
+{
+  "email": "Email",
+  "password": "Password",
+  "server": "Server",
+  "scan_bike_qr": "Scan bike QR",
+  "lending_since": "Lending since",
+  "recent_trips": "Recent trips",
+  "log_in": "Log in",
+  "log_out": "Log out",
+  "trip": "Trip",
+  "duration": "Duration",
+  "second": "second",
+  "seconds": "seconds",
+  "minute": "minute",
+  "minutes": "minutes",
+  "hour": "hour",
+  "hours": "hours",
+  "error": {
+    "label": "Error",
+    "could_not_connect_to_lock": "Could not connect to lock!",
+    "credentials": "Email or password not correct",
+    "unknown": "Unknown error"
+  },
+  "last_ping": "Last ping",
+  "time_ago": {
+    "few_seconds": "few seconds ago",
+    "few_minutes": "few minutes ago",
+    "several_minutes": "several minutes ago",
+    "several_hours": "several hours ago",
+    "yesterday": "yesterday",
+    "several_days": "several days ago"
+  },
+  "bike_no": "Bike no.",
+  "unlock": "Unlock"
+}
