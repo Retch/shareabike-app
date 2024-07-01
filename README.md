@@ -12,6 +12,6 @@
 ## Permissions
 This app depends on various permissions for full functionality
 - Internet access to connect to server and fetch bike information
-- Location Services to determine current location
+- Location services to determine current location
 - Camera to scan qr-code
 - Bluetooth to discover lock MAC address
